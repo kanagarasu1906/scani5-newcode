@@ -6,9 +6,8 @@
 /storage/*.key
 /storage/pail
 /vendor
-/docker/mysql*
-/docker/mysqldata
-docker/*
+
+
 **/*Zone.Identifier
 .env
 .env.backup
